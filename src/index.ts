@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import { input } from '@inquirer/prompts';
 import { ChildProcess, spawn } from 'child_process';
 import { mkdir, readFile, writeFile } from 'fs/promises';

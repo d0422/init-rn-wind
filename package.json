@@ -1,7 +1,7 @@
 {
   "name": "init-rn-wind",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "./dist/index.js",
   "bin": {
     "init-rn-wind": "./dist/index.js"
   },
