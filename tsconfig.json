@@ -9,5 +9,5 @@
     "skipLibCheck": true /* Skip type checking all .d.ts files. */,
     "outDir": "dist"
   },
-  "exclude": ["**/*.test.ts", "testrn"]
+  "exclude": ["**/*.test.ts"]
 }
